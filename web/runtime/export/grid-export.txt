@@ -1,0 +1,3 @@
+""	"Ονομα"	"Θέση"	"Υπηρεσία"	"Ηλεκτρ. Ταχυδρομείο"	""
+"<td class=""kartik-sheet-style kv-align-center kv-align-middle"" style=""width:50px;"" data-col-seq=""0"">1</td>"	"Τζαβάρας Παναγιώτης"	"Υπάλληλος"	"Πολιτική Προστασία (ΠΕ Μεσσηνίας)"	"politikiprostasia@na-messinias.gr"	""
+"<td class=""kartik-sheet-style kv-align-center kv-align-middle"" style=""width:50px;"" data-col-seq=""0"">2</td>"	"Σταματούλης  Γεράσιμος"	"Υπάλληλος"	"Πολιτική Προστασία (ΠΕ Κορινθίας)"	"s.stamatoulis@pekorinthias.gr"	""
